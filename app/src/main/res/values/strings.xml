@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">ChatApplication</string>
+    <string name="string">Chat messages will appear here</string>
+    <string name="sendString">Send</string>
+    <string name="typeHereString">Type Here</string>
+    <string name="button">Button</string>
 </resources>
